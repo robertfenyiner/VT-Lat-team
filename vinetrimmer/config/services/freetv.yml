@@ -1,0 +1,3 @@
+endpoints:
+  search: 'https://api-ott.freetv.com/search'
+  get_object: 'https://api-ott.freetv.com/getreferencedobjects'

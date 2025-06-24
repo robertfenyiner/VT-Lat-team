@@ -1,0 +1,24 @@
+#endpoints:
+  #manifest: 'https://comet-emea.api.hbo.com/express-content/{title_id}'
+  #tokens: 'https://comet-emea.api.hbo.com/tokens'
+  #content: 'https://comet-emea.api.hbo.com/content'
+  
+endpoints:
+  manifest: 'https://comet-latam.api.hbo.com/express-content/{title_id}'
+  tokens: 'https://comet-latam.api.hbo.com/tokens'
+  content: 'https://comet-latam.api.hbo.com/content'  
+
+device:
+  name: 'desktop'
+  serial_number: 'c28e9349-14cd-3da5-8341-0d363a538358'
+
+client:
+  desktop:
+    id: '585b02c8-dbe1-432f-b1bb-11cf670fbeb0'
+    version: 'DMX-Web/52.35.0.581624 desktop Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51/N/A'
+    os_version: 'N/A'
+
+  android:
+    id: 'c8d75990-06e5-445c-90e6-d556d7790998'
+    version: 'Hadron/100.35.0.280 android/100.35.0.280 (SHIELD/8.1.0)'
+    os_version: 'undefined'
